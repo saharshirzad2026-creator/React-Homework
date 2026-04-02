@@ -9,3 +9,4 @@ function SecondPractice(){
         </div>
     );
 }
+export default SecondPractice;
