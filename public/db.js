@@ -42,3 +42,49 @@ export const schoolsList = [
         details: "This is a big school for male students in Angori."
     },
 ]
+
+
+export const teachersList = [
+    {
+        id: 1,
+        name: "Fahima",
+        lastName: "Tahiri",
+        age: 30,
+        description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis adipisci quia illum sequi dignissimos iste nemo maxime ipsa dolor, quod quis dolorem qui at cupiditate id eligendi veritatis autem recusandae!",
+    },
+    {
+        id: 2,
+        name: "Farida",
+        lastName: "Rahimi",
+        age: 40,
+        description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis adipisci quia illum sequi dignissimos iste nemo maxime ipsa dolor, quod quis dolorem qui at cupiditate id eligendi veritatis autem recusandae!",
+    },
+    {
+        id: 3,
+        name: "Farhad",
+        lastName: "Zahidi",
+        age: 32,
+        description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis adipisci quia illum sequi dignissimos iste nemo maxime ipsa dolor, quod quis dolorem qui at cupiditate id eligendi veritatis autem recusandae!",
+    },
+    {
+        id: 4,
+        name: "Hamid",
+        lastName: "Rezaie",
+        age: 36,
+        description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis adipisci quia illum sequi dignissimos iste nemo maxime ipsa dolor, quod quis dolorem qui at cupiditate id eligendi veritatis autem recusandae!",
+    },
+    {
+        id: 5,
+        name: "Rahim",
+        lastName: "Qurbani",
+        age: 30,
+        description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis adipisci quia illum sequi dignissimos iste nemo maxime ipsa dolor, quod quis dolorem qui at cupiditate id eligendi veritatis autem recusandae!",
+    },
+    {
+        id: 6,
+        name: "Mahdi",
+        lastName: "Sarvari",
+        age: 32,
+        description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis adipisci quia illum sequi dignissimos iste nemo maxime ipsa dolor, quod quis dolorem qui at cupiditate id eligendi veritatis autem recusandae!",
+    },
+]
